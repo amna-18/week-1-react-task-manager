@@ -4,7 +4,7 @@
 
 A component-driven rebuild of my Month 1 JavaScript Task Manager using **React.js + Vite**. It covers JSX, reusable functional components, props, `useState` and controlled forms.
 
-🔗 **Live Demo:** [ADD YOUR VERCEL / NETLIFY LINK HERE](https://github.com/amna-18/week-1-react-task-manager.git)
+🔗    🔗 **Live Demo:** [https://week-1-react-task-manager.vercel.app](https://week-1-react-task-manager.vercel.app)
 
 ## Screenshots
 
